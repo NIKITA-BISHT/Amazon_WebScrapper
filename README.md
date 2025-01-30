@@ -6,7 +6,7 @@
 
 **Key Highlights**
 
-1. Title: Extracted from the <h2> tag with a specific class.
+1. Title: Extracted from the <h2> tag. 
 2. Price: Extracted from the <span> tag with the class a-price-whole for the main price.
 3. Reviews: Extracted from the <span> tag with class a-icon-alt for review ratings.
 4. Product URL: The link to the individual product page is extracted to gather additional details like availability.
