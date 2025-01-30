@@ -6,10 +6,10 @@
 
 **Key Highlights**
 
-1. Title: Extracted from the <h2> tag. 
-2. Price: Extracted from the <span> tag with the class a-price-whole for the main price.
-3. Reviews: Extracted from the <span> tag with class a-icon-alt for review ratings.
-4. Product URL: The link to the individual product page is extracted to gather additional details like availability.
+1. **Title**: Extracted from the `<h2>` tag.  
+2. **Price**: Extracted from the `<span>` tag with the class `a-price-whole` for the main price.  
+3. **Reviews**: Extracted from the `<span>` tag with the class `a-icon-alt` for review ratings.  
+4. **Product URL**: The link to the individual product page is extracted to gather additional details like availability.
 
 **The script automatically scrapes multiple products from the search results page and fetches corresponding availability information from their individual product pages.**
 
